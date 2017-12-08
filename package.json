@@ -1,0 +1,13 @@
+{
+  "name": "Anonymous Bot",
+  "description": "Developer/Beta test version of Anonymous Bot. Designed coded and owned by ĐΣΔŦђツ#8708.",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
